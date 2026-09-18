@@ -1,0 +1,116 @@
+{
+  "version": 2,
+  "template_version": "7f09bfc43d72662de3f6",
+  "page_size": 20,
+  "site_id": "383693452ace8836a7093a59",
+  "owner": "cvmncfybabm",
+  "repo": "cvmncfybabm.github.io",
+  "title": "网络加速服务",
+  "mode": "site",
+  "articles": [
+    {
+      "id": "3806a228e644e25bb1a6c175",
+      "a": "可乐云(Kelecloud)",
+      "b": "加速器官网",
+      "entity": "可乐云(Kelecloud)",
+      "brand": "加速器官网",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "dd2deff663b62c0ec9f3eac71f59529b660925670b66c81b19e187aa5ba4cf03",
+      "content": {
+        "primary_entity": "可乐云(Kelecloud)",
+        "keyword1": "可乐云(Kelecloud)",
+        "keyword2": "加速器官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择客户端，导入订阅后使用可乐云(Kelecloud)服务。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "选择适合设备与流量的套餐，按客户端文档完成订阅配置。",
+          "AI_CLOSING_TITLE": "开始使用可乐云(Kelecloud)",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档订阅，分别对应每月100GB、300GB、1000GB流量与3台、5台、20台设备同时在线额度，年付可享优惠。支持多平台客户端导入订阅链接，旗舰版包含IPLC专线游戏加速，团队版支持企业定制路由。",
+          "AI_FEATURES_INTRO": "从设备数量与流量需求出发，选择匹配的订阅周期。",
+          "AI_FEATURES_TITLE": "套餐与设备匹配",
+          "AI_FEATURE_TEXT_1": "基础版月付15元得100GB流量，支持3台设备，适合个人轻量使用。",
+          "AI_FEATURE_TEXT_2": "旗舰版月付35元得300GB流量，支持5台设备，含IPLC专线优化。",
+          "AI_FEATURE_TEXT_3": "团队版月付85元得1000GB流量，支持20台设备，可定制企业路由。",
+          "AI_FEATURE_TITLE_1": "个人基础选择",
+          "AI_FEATURE_TITLE_2": "全家旗舰配置",
+          "AI_FEATURE_TITLE_3": "团队高带宽方案",
+          "AI_GUIDE_INTRO": "挑选套餐、查看设备适配要求、依客户端文档导入订阅。",
+          "AI_GUIDE_TITLE": "订阅配置流程",
+          "AI_HERO_INTRO": "可乐云(Kelecloud)提供多档海外加速订阅，覆盖基础到团队场景，用户可按设备数量、月流量与专线需求选择套餐，通过订阅链接在常用客户端完成配置。",
+          "AI_HERO_SUBTITLE": "可乐云(Kelecloud)多档订阅灵活选",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人到团队",
+          "AI_HIGHLIGHT_2": "年付享优惠，流量按需选",
+          "AI_HIGHLIGHT_3": "多设备支持，订阅配置便捷",
+          "AI_PLANS_INTRO": "基础版适合轻量个人，旗舰版平衡流量与设备数，团队版提供高带宽与定制路由。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量、月流量和专线需求，在基础版、旗舰版、团队版之间做出选择。",
+          "AI_STEP_TEXT_2": "确认所用设备是否在套餐支持的在线设备数内，并查看客户端系统要求。",
+          "AI_STEP_TEXT_3": "打开所选客户端的订阅导入功能，粘贴可乐云(Kelecloud)提供的订阅链接并保存。",
+          "AI_STEP_TITLE_1": "选服务",
+          "AI_STEP_TITLE_2": "看适配",
+          "AI_STEP_TITLE_3": "配订阅",
+          "AI_VISUAL_TITLE": "可乐云(Kelecloud)订阅多选",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "可乐云套餐之间主要区别是什么？",
+          "AI_FAQ_ANSWER_1": "主要区别在流量额度、设备数量和节点类型。基础版100GB/3台，旗舰版300GB/5台并含IPLC专线，团队版1000GB/20台并支持企业定制路由。",
+          "AI_FAQ_QUESTION_2": "订阅如何导入客户端？",
+          "AI_FAQ_ANSWER_2": "购买后获得订阅地址，在对应客户端中选择从订阅导入，粘贴地址即可同步节点。具体路径可参考各客户端文档。",
+          "AI_FAQ_QUESTION_3": "年付和月付差价大吗？",
+          "AI_FAQ_ANSWER_3": "年付相当于十个月价格。基础版月付¥15、年付¥150；旗舰版月付¥35、年付¥350；团队版月付¥85、年付¥850。",
+          "AI_FAQ_QUESTION_4": "旗舰版适合哪些使用场景？",
+          "AI_FAQ_ANSWER_4": "旗舰版提供300GB流量和5台设备，含IPLC专线游戏加速优化与全节点流媒体解锁，适合对延迟和观影有要求的用户。",
+          "AI_FAQ_QUESTION_5": "团队版可以多人共用吗？",
+          "AI_FAQ_ANSWER_5": "团队版支持20台设备同时在线，提供VIP专属高带宽节点和定制路由，适合小型团队或多设备用户共用订阅。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "526718a81efb63a4b3a4b35901c588f8d016b54e7bc040f73cb81fc0bb3eb4c1",
+    "sitemap.xml": "fa9e970fe76970f57faa37f53ae2ea5e293bfc61f42ef06910fbbd367b7eb9bd",
+    "robots.txt": "f897c3e348ea2321befe42463809f82f83712b72b9fa4726d0803289da2492f7",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "f3368b4b01e80bd239aa1d93bc5572ea332dec9b564b584df09520e264a549fe"
+}

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cvmncfybabm.github.io/sitemap.xml
